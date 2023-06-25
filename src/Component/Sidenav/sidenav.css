@@ -1,0 +1,10 @@
+.sidenav{
+   overflow-x: hidden;
+    height: 100vh;
+    background-color: #e8e8e8;
+    transition: all 500ms;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}

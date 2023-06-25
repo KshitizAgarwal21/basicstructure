@@ -1,0 +1,10 @@
+.main-container{
+  display: flex;
+ 
+}
+.sidenav-container{
+  width: 20%;
+}
+.content-container{
+  width: 80%;
+}
